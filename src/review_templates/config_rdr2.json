@@ -64,13 +64,12 @@
             "title": "Game Size",
             "type": "radio",
             "options": [
-              "Floppy Disk",
-              "Old Fashioned",
-              "Workable",
-              "Big",
-              "Will eat 10% of your 1TB hard drive",
-              "You will want an entire hard drive to hold it",
-              "You will need to invest in a black hole to hold all the data"
+              "Floppy Disk (< 1MB)",
+              "Small (1MB-100MB)",
+              "Average (100MB-1GB)",
+              "Big (1GB-4GB)",
+              "You will want an entire hard drive to hold it (4GB-15GB)",
+              "You will need to invest in a black hole to hold all the data (> 15GB)"
             ]
           },          
         {
@@ -80,7 +79,6 @@
                 "Just press 'W'",
                 "Easy",
                 "Easy to learn / Hard to master",
-                "Significant brain usage",
                 "Difficult",
                 "Dark Souls"
             ]
@@ -113,8 +111,7 @@
             "title": "Game Time",
             "type": "radio",
             "options": [
-                "Long enough for a cup of coffee",
-                "Short",
+                "Short and Sweet",
                 "Average",
                 "Long",
                 "To infinity and beyond"
@@ -127,7 +124,6 @@
                 "It's free!",
                 "Worth the price",
                 "If it's on sale",
-                "If u have some spare money left",
                 "Not recommended",
                 "You could also just burn your money"
             ]
@@ -141,22 +137,6 @@
                 "Can get annoying",
                 "ARK: Survival Evolved",
                 "The game itself is a big terrarium for bugs"
-            ]
-        },
-        {
-            "title": "? / 10",
-            "type": "radio",
-            "options": [
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6",
-                "7",
-                "8",
-                "9",
-                "10"
             ]
         }
     ]
